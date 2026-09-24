@@ -36,13 +36,12 @@ As this is a comprehensive Java Bootcamp, this repository will eventually cover 
 - **File I/O:** Reading and writing files.
 - **Advanced Java:** Multithreading, Generics, Collections Framework.
 - **Database:** JDBC, SQL basics.
-- **Frameworks:** Spring / Hibernate (if applicable to the course).
+- **Frameworks:** Spring 
 
 ## 🛠️ Tools & Technologies
 
 - **Language:** Java (JDK 17 or higher)
 - **IDE:** IntelliJ IDEA
-- **Build Tool:** Maven / Gradle (depending on the assignment)
 - **Version Control:** Git
 
 ## 📅 Update Schedule
