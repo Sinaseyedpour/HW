@@ -15,13 +15,13 @@ The files are organized by week or assignment number to keep track of the progre
 
 ```text
 HW/
-├── Week-01/
+├── HW1/
 │   ├── src/
-│   └── README.md (optional notes)
-├── Week-02/
+│   └── README.md
+├── HW2/
 │   ├── src/
 │   └── ...
-├── Week-03/
+├── HW3/
 └── ...
 ```
 
